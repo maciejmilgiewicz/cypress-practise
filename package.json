@@ -1,5 +1,5 @@
 {
-  "name": "cypress-course",
+  "name": "cypress-practice",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -16,5 +16,8 @@
     "next": "13.4.12",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.4"
   }
 }
